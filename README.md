@@ -7,7 +7,7 @@ I will be completing all the 455 problems in the strivers a to z sheet within 30
 
 # Hierarchy of the repo
 
-<div><
+<div>
        <ol>
          <li>There will be different types of folders </li>
          <li>And each folder contains the questions related to the folder_name(topic</li>
