@@ -7,8 +7,8 @@ I will be completing all the 455 problems in the strivers a to z sheet within 30
 
 # Hierarchy of the repo
 
-1)There will be different types of folders 
-2)And each folder contains the questions related to the folder_name(topic)
-3)Each folder consists a set of files 
+1)There will be different types of folders \n
+2)And each folder contains the questions related to the folder_name(topic) \n
+3)Each folder consists a set of files \n
   a) Includes question 
   b)Problem link to practice
