@@ -15,6 +15,8 @@ Explanation: The number is ‘6’ so we have to find the “6th” Fibonacci number.
 So by using the given formula of the Fibonacci series, we get the series:    
 [ 1, 1, 2, 3, 5, 8, 13, 21]
 So the “6th” element is “8” hence we get the output.
+
+Problem link : https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 */
 
 #include<bits/stdc++.h>
